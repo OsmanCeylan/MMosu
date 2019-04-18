@@ -1,0 +1,2 @@
+# MMosu
+Osu! oynun basitçesi
